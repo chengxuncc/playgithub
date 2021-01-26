@@ -1,0 +1,12 @@
+on:
+  push:
+    tags:
+      - 'v*'
+name: release-build
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Test Release Env Vars
+        run: >
+          printenv
