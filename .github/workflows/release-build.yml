@@ -9,4 +9,4 @@ jobs:
     steps:
       - name: Test Release Env Vars
         run: >
-          printenv
+          printenv && cat $GITHUB_EVENT_PATH
