@@ -11,5 +11,5 @@ jobs:
         uses: actions/checkout@v2
       - name: Get Tag Info
         run: |
-          git tag -l "${GITHUB_REF##*/}" --format='%(subject)'
-          git tag -l "${GITHUB_REF##*/}" --format='%(body)'
+          echo "subject" && git tag -l "${GITHUB_REF##*/}" --format='%(subject)'
+          echo "body" &&git tag -l "${GITHUB_REF##*/}" --format='%(body)'
