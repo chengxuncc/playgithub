@@ -7,6 +7,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - name: Test Release Env Vars
-        run: >
-          printenv && cat $GITHUB_EVENT_PATH
+      - name: Get Tag Info
+        run: |
+          git tag -l "${GITHUB_REF##*/}" --format='%(subject)'
+          git tag -l "${GITHUB_REF##*/}" --format='%(body)'
