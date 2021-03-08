@@ -40,7 +40,7 @@ jobs:
             CHANGELOG.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-      - run:  ${{ github }}
+      - run:  echo "${{ github }}"
       - name: Send to Telegram
         uses: appleboy/telegram-action@master
         with:
