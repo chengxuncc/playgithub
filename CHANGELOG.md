@@ -9,3 +9,8 @@
 ### Changed
  - Auto update
 
+## [0.3](../../releases/tag/v0.3)
+
+### Changed
+ - Auto update
+

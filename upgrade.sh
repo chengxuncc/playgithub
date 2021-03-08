@@ -1,5 +1,5 @@
 set -x
-version=0."$(date +%s)"
+version=0."3"
 echo -e "## [$version](../../releases/tag/v$version)\n\n### Changed\n - Auto update\n" >>CHANGELOG.md
 git add .
 git commit -m "auto commit"
