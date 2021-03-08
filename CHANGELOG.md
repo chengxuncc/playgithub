@@ -1,5 +1,11 @@
 # Play Github
 
+## [4.0.7]
+
+### Changed
+
+- update telegram format
+
 ## [4.0.6]
 
 ### Changed
