@@ -52,4 +52,8 @@
 
 ### 已更改
 
-- 使用Changelog Reader
+- 使用Changelog Reader## [ersion]
+
+### Changed
+ - Auto update
+
