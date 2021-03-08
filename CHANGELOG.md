@@ -1,5 +1,11 @@
 # Play Github
 
+## [4.0.2]
+
+### 已更改
+
+- change release name
+
 ## [4.0.1]
 
 ### 已更改
