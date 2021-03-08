@@ -1,5 +1,11 @@
 # Play Github
 
+## [4.0.4]
+
+### Changed
+
+- send to telegram
+
 ## [4.0.3]
 
 ### 已更改
