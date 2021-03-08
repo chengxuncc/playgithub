@@ -1,5 +1,11 @@
 # Play Github
 
+## [4.0.3]
+
+### 已更改
+
+- use softprops/action-gh-release
+
 ## [4.0.2]
 
 ### 已更改
