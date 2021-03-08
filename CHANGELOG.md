@@ -23,3 +23,8 @@
 ### Changed
  - Auto update
 
+## [5.3.2](../../releases/tag/v5.3.2)
+
+### Changed
+ - Auto update
+
