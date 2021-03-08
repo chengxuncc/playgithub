@@ -48,31 +48,12 @@
 
 - 版本使用中括号
 
-## [4.0.0]
-
-### 已更改
-
-- 使用Changelog Reader## [ersion]
-
-### Changed
- - Auto update
-
-## []
-
-### Changed
- - Auto update
-
-## []
-
-### Changed
- - Auto update
-
-## [ersion]
-
-### Changed
- - Auto update
-
 ## [1615177107]
+
+### Changed
+ - Auto update
+
+## [1615177203]
 
 ### Changed
  - Auto update
