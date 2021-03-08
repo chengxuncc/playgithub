@@ -46,7 +46,7 @@ jobs:
           to: ${{ secrets.TELEGRAM_TO }}
           token: ${{ secrets.TELEGRAM_TOKEN }}
           message: |
-            # [${{GITHUB_REPOSITORY}}](https://github.com/${{GITHUB_ACTOR}}/${{GITHUB_REPOSITORY}}) ${{GH_BUILD_TAG}}
+            # [${GITHUB_REPOSITORY](https://github.com/${GITHUB_ACTOR}/${GITHUB_REPOSITORY}) ${GH_BUILD_TAG}
             ${{ steps.changelog_reader.outputs.changes }}
           format: markdown
           disable_web_page_preview: true

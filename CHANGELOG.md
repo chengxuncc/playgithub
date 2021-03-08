@@ -1,5 +1,11 @@
 # Play Github
 
+## [4.0.6]
+
+### Changed
+
+- fix var again
+
 ## [4.0.5]
 
 ### Changed
