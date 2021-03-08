@@ -1,69 +1,16 @@
 # Play Github
 
-## [4.0.8]
-
-### Changed
-
-- update telegram format
-
-## [4.0.7]
-
-### Changed
-
-- update telegram format
-
-## [4.0.6]
-
-### Changed
-
-- fix var again
-
-## [4.0.5]
-
-### Changed
-
-- fix var
-
-## [4.0.4]
-
-### Changed
-
-- send to telegram
-
-## [4.0.3]
-
-### 已更改
-
-- use softprops/action-gh-release
-
-## [4.0.2]
-
-### 已更改
-
-- change release name
-
-## [4.0.1]
-
-### 已更改
-
-- 版本使用中括号
-
-## [1615177107]
-
-### Changed
- - Auto update
-
-## [1615177203]
-
-### Changed
- - Auto update
-
 ## [1615177308]
 
 ### Changed
  - Auto update
 
 ## [1615177578](../../releases/tag/v1615177578)
+
+### Changed
+ - Auto update
+
+## [1615177726](../../releases/tag/v1615177726)
 
 ### Changed
  - Auto update
